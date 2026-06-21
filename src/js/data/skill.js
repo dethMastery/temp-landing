@@ -35,11 +35,6 @@ const Skill = [
     img: "https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dont-icon@latest/src/ionic.png",
   },
   {
-    name: "Cordova",
-    link: "https://cordova.apache.org/",
-    img: "https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dont-icon@latest/src/cordova.png",
-  },
-  {
     name: "Jekyll",
     link: "https://jekyllrb.com/",
     img: "https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dont-icon@latest/src/jekyll.png",
@@ -115,12 +110,7 @@ const Skill = [
     img: "https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dont-icon@latest/src/c.png",
   },
   {
-    name: "C Sharp",
-    link: "https://www.w3schools.com/cs/index.php",
-    img: "https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dont-icon@latest/src/cs.png",
-  },
-  {
-    name: "Mongo DB",
+    name: "MongoDB",
     link: "https://mongodb.com/",
     img: "https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dont-icon@latest/src/mongo.png",
   },
@@ -138,16 +128,6 @@ const Skill = [
     name: "Figma",
     link: "https://figma.com/",
     img: "https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dont-icon@latest/src/figma.png",
-  },
-  {
-    name: "IFTTT",
-    link: "https://ifttt.com/",
-    img: "https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dont-icon@latest/src/ifttt.png",
-  },
-  {
-    name: "Photoshop",
-    link: "https://photoshop.com/en",
-    img: "https://cdn.jsdelivr.net/gh/dont-tattled-on-me/dont-icon@latest/src/ps.png",
   },
   {
     name: "Postman",
